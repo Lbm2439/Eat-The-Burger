@@ -1,9 +1,17 @@
-.intro {
-    background-color: rgb(179, 167, 211)!important;
+.page {
+  background-color: rgb(179, 167, 211) !important;
+  text-align: center;
+  height: 100vh;
 }
-h1{
-    text-align: center;
+h1 {
+  font-family: 'Erica One', cursive;
 }
 h3 {
-    text-align: center;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+img {
+  max-width: 30vh;
+  max-height: 30vh;
+  margin-top: 4vh;
 }

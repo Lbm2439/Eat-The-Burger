@@ -1,7 +1,7 @@
 .page {
   background-color: rgb(179, 167, 211) !important;
   text-align: center;
-  height: 105vh;
+  height: 100%;
 }
 h1 {
   font-family: 'Erica One', cursive;
@@ -22,4 +22,5 @@ img {
 .footer {
   max-width: 100%;
   margin-top: 4vh;
+  margin-bottom: 4vh;
 }

@@ -5,11 +5,11 @@
 }
 h1 {
   font-family: 'Erica One', cursive;
+  margin-top: 3vh;
 }
 h3 {
     font-family: 'Advent Pro', sans-serif;
 }
-
 img {
   max-width: 30vh;
   max-height: 30vh;
